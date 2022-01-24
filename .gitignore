@@ -1,0 +1,7 @@
+__pycache__
+VENVS
+venv 
+bin
+lib
+pyvenv.cfg
+get-pip.py
